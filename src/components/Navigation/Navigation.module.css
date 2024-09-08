@@ -1,0 +1,19 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.active {
+  color: orangered;
+}
+
+.header {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 1920px;
+  margin: 0;
+  padding: 20px;
+  padding-left: 100px;
+}
